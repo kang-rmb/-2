@@ -26,10 +26,16 @@
 | 第七章 | 思维导图             | 1    | XMind                 |
 
 ## 五. 代码  
+  ### 代码段  
     L = [1 ,2 ,3 ,9]
     print(L.append(10))
     print(L)
     print(L.pop())
-    print(L)   
+    print(L)  
+  ### 代码块  
+    `import random`  
+    `a = random.randint(2020012001,2020012100)`
+    `print("请学号为%d 的同学回答老师问题！" %a)`
+    
 ## 六. 备注 
   康昕玥  软件工程8班  2020012447
